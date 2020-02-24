@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Zhiheng Li&#39;s Homepage</title>
@@ -27,7 +27,7 @@
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>https://zhiheng.li/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀</description>
     </item>
     
     <item>
@@ -72,7 +72,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhiheng.li/home/publications/</guid>
-      <description>**Lip Movements Generation at a Glance** Lele Chen* , **Zhiheng Li***, Ross K Maddox, Zhiyao Duan, Chenliang Xu; (**\* equal contribution**) The European Conference on Computer Vision (ECCV), 2018, pp. 520-535 ``` @InProceedings{Chen_2018_ECCV, author = {Chen, Lele and Li, Zhiheng and K Maddox, Ross and Duan, Zhiyao and Xu, Chenliang}, title = {Lip Movements Generation at a Glance}, booktitle = {The European Conference on Computer Vision (ECCV)}, month = {September}, year = {2018} } ``` We consider a task of such: given an arbitrary audio speech and one lip image of arbitrary target identity, generate synthesized lip movements of the target identity saying the speech.</description>
+      <description>  </description>
     </item>
     
     <item>
