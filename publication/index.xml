@@ -1,32 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lip Movements Generation at a Glance on Zhiheng Li&#39;s Homepage</title>
+    <title>Publications | Zhiheng Li</title>
     <link>https://zhiheng.li/publication/</link>
-    <description>Recent content in Lip Movements Generation at a Glance on Zhiheng Li&#39;s Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://zhiheng.li/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://zhiheng.li/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>https://zhiheng.li/publication/</link>
+    </image>
     
     <item>
       <title>Deep Grouping Model for Unified Scene Parsing</title>
       <link>https://zhiheng.li/publication/li-2020-cvpr/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://zhiheng.li/publication/li-2020-cvpr/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Learning a Weakly-Supervised Video Actor-Action Segmentation Model with a Wise Selection</title>
+      <link>https://zhiheng.li/publication/chen-2020-cvpr/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://zhiheng.li/publication/chen-2020-cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lip Movements Generation at a Glance</title>
-      <link>https://zhiheng.li/publication/lip_movements/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://zhiheng.li/publication/lip_movements/</guid>
+      <link>https://zhiheng.li/publication/chen-2018-eccv/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://zhiheng.li/publication/chen-2018-eccv/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ross K Maddox | Zhiheng Li</title>
+    <link>https://zhiheng.li/authors/ross-k-maddox/</link>
+      <atom:link href="https://zhiheng.li/authors/ross-k-maddox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ross K Maddox</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ross K Maddox</title>
+      <link>https://zhiheng.li/authors/ross-k-maddox/</link>
+    </image>
+    
+    <item>
+      <title>Lip Movements Generation at a Glance</title>
+      <link>https://zhiheng.li/publication/chen-2018-eccv/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://zhiheng.li/publication/chen-2018-eccv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
