@@ -100,7 +100,7 @@
                   <a href="https://arxiv.org/abs/2212.04825">arxiv</a> /
                   <a href="https://github.com/facebookresearch/Whac-A-Mole.git">code</a>
                   <br>
-                  <p>We introduce two new datasets (UrbanCars and ImageNet-W) to study multi-shortcut learning. Especially, ImageNet-W is created based on the newly found watermark shortcut in ImageNet affecting a broad range of vision models, including ResNet, RegNet, ViT, MoCov3, MAE, SEER, SWAG, model soups, and CLIP.</p>
+                  <p>We introduce two new datasets (UrbanCars and ImageNet-W) to study multi-shortcut learning. Especially, ImageNet-W is created based on the newly found watermark shortcut in ImageNet affecting a broad range of vision models, including ResNet, RegNet, ViT, MoCov3, MAE, SEER, SWAG, model soups, and CLIP. Our work surfaces an overlooked challenge in shortcut learning: multi-shortcut mitigation resembles a <em>Whac-A-Mole</em> game, i.e., mitigating one shortcut amplifies others.</p>
                 </td>
               </tr>
 
@@ -126,7 +126,35 @@
                   <a href="https://github.com/zhihengli-UR/DebiAN">code</a> /
                   <a href="https://youtu.be/dZLFQ8VXzBw">video</a>
                   <br>
-                  <p>We introduce Debiasing Alternate Networks (DebiAN) to discover and mitigate unknown biases of an image classifier.</p>
+                  <p>We introduce Debiasing Alternate Networks (DebiAN) to discover and mitigate unknown biases of an image classifier. DebiAN trains two networks in an alternate fashion. The <em>discoverer</em> network identifies unknown biases in the <em>classifier</em>. The <em>classifier</em> mitigates biases found by the <em>discoverer</em>.</p>
+                </td>
+              </tr>
+
+              <tr>
+                <td style="padding:20px;width:35%;vertical-align:middle" align="center">
+                  <img src="images/eccvw_2022_good_embed.jpg" alt="clean-usnob" width="418" height="160">
+                </td>
+                <td width="75%" valign="middle">
+                  <a href="https://arxiv.org/abs/2212.06254">
+                    <papertitle>You Only Need a Good Embeddings Extractor to Fix Spurious Correlations
+                    </papertitle>
+                  </a>
+                  <br>
+                  <a href="http://cim.mcgill.ca/~raghav/">Raghav Mehta</a>,
+                  <a href="https://vitoralbiero.netlify.app/">Vítor Albiero</a>,
+                  Li Chen,
+                  <a href="https://ivanevtimov.eu/">Ivan Evtimov</a>,
+                  Tamar Glaser,
+                  <strong>Zhiheng Li</strong>,
+                  <a href="https://talhassner.github.io/home/">Tal Hassner</a>
+                  <br>
+                  <em>ECCV Responsible Computer Vision Workshop</em>, 2022
+                  <br>
+                  <a href="https://arxiv.org/pdf/2212.06254">pdf</a> /
+                  <a href="data/bibtex/mehta_2022_eccvw.bib">bibtex</a> /
+                  <a href="https://arxiv.org/abs/2212.06254">arxiv</a>
+                  <br>
+                  <p>Unlike existing approaches (e.g., GroupDRO) focusing on reweighting or rebalancing training data, we show that simply using embeddings from a large pretrained vision model extractor (e.g., SWAG) and training a linear classifier on top of it without training group information achieve state-of-the-art results in combating group shift on Waterbirds.</p>
                 </td>
               </tr>
 
@@ -153,7 +181,7 @@
                   <a href="https://github.com/zhihengli-UR/StyleT2I">code</a> /
                   <a href="https://youtu.be/-rTDfnKoVps">video</a>
                   <br>
-                  <p>We introduce a new framework, StyleT2I, to improve the compositionality of text-to-image synthesis.</p>
+                  <p>We introduce a new framework, StyleT2I, to improve the compositionality of text-to-image synthesis, e.g., faithfully synthesizing a face image in “a man wearing lipstick” that is underrepresented in the training data (e.g., due to societal stereotypes).</p>
                 </td>
               </tr>
               <!-- paper -->
